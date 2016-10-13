@@ -1,0 +1,18 @@
+# sources.list kambing
+deb http://kambing.ui.ac.id/ubuntu/ xenial main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ xenial-updates main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ xenial-security main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ xenial-backports main restricted universe multiverse
+deb http://kambing.ui.ac.id/ubuntu/ xenial-proposed main restricted universe multiverse
+# sources.list ugm
+deb http://repo.ugm.ac.id/ubuntu xenial main restricted universe multiverse
+deb http://repo.ugm.ac.id/ubuntu xenial-updates main restricted universe multiverse
+deb http://repo.ugm.ac.id/ubuntu xenial-security main restricted universe multiverse
+deb http://repo.ugm.ac.id/ubuntu xenial-backports main restricted universe multiverse
+deb http://repo.ugm.ac.id/ubuntu xenial-proposed main restricted universe multiverse
+# sources.list buaya
+deb http://buaya.klas.or.id/ubuntu/ xenial main restricted universe multiverse
+deb http://buaya.klas.or.id/ubuntu/ xenial-updates main restricted universe multiverse
+deb http://buaya.klas.or.id/ubuntu/ xenial-security main restricted universe multiverse
+deb http://buaya.klas.or.id/ubuntu/ xenial-backports main restricted universe multiverse
+deb http://buaya.klas.or.id/ubuntu/ xenial-proposed main restricted universe multiverse
